@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.results {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 80px;
+}
+
+.choice {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 80px;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding-top: 300px;
+}
